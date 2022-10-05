@@ -6,6 +6,7 @@ I'm Tom. 👋 I write software and speculative fiction.
 
 - python
 - docker layering
+- horror (film, books)
 - bread baking
 - coding for maintainability
 - chicago-style ~pizza~ copy editing
