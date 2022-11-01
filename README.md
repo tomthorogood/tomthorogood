@@ -1,6 +1,7 @@
 # 🫥
 
-I'm Tom. 👋 I write software and speculative fiction.
+<img src="https://user-images.githubusercontent.com/1092941/199336710-5b6eda82-5f17-406a-a5b9-e6ecb8d4844e.gif" height="48" width="48" alt="Low-quality gif of @tomthorogood flashing a peace sign wearing bright clothing in front of his guitars."> I'm Tom. 👋 I write software and speculative fiction.
+
 
 ### Ask me about ...
 
