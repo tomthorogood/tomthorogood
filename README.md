@@ -20,3 +20,8 @@
 
 - team sports
 - the marvel cinematic universe
+
+### Social
+
+- <a rel="me" href="https://mastodon.social/@tathorogood">tathorogood@mastodon.social</a>
+- <a href="https://twitter.com/tathorogood">tathorogood@twitter</a>
