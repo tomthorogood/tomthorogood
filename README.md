@@ -25,3 +25,5 @@
 
 - <a rel="me" href="https://mastodon.social/@tathorogood">tathorogood[@]mastodon.social</a>
 - <a href="https://twitter.com/tathorogood">twitter: @tathorogood</a>
+
+<a href="https://github.com" rel="me">Testing a thing</a>
