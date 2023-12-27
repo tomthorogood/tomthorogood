@@ -19,10 +19,3 @@
 
 - team sports
 - the marvel cinematic universe
-
-
-### Teach me about
-
-- Music theory
-- Interesting guitar techniques
-- Database denormalization
