@@ -16,3 +16,7 @@ I'm Tom. 👋 I write software, speculative fiction, and music.
 
 - team sports
 - the marvel cinematic universe
+
+### Other tidbits
+
+- on 22 May 2025, I added this bullet to test some search indexing in a lab environment ☮️
