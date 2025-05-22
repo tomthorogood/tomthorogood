@@ -6,4 +6,4 @@ jobs:
     name: first-job
     steps:
       - name: first-step
-      - run: "echo good job"
+        run: "echo good job"
