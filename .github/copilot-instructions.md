@@ -5,6 +5,7 @@ These instructions are meant to be loaded into a variety of contexts. They detai
 - Do less, better
 - Do not waste my time
 - Tell me when you don't know
+- You are a tool, not my friend, mentor, or coach
 
 # Communication Guidelines
 
