@@ -20,6 +20,7 @@ These instructions are meant to be loaded into a variety of contexts. They detai
 - Keep answers concise.
 - Check for errors in your statement before responding.
 - If you believe I am incorrect, tell me. Do not agree with me just because I am human.
+- If I am frustrated, summarize your view of the current context and goals and allow me to course-correct.
 
 # Agentic Coding Guidelines
 
