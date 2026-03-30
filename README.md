@@ -2,6 +2,12 @@
 
 I'm Tom. 👋 I write software, speculative fiction, and music.
 
+I work here, at GitHub, on all things [Search](https://github.com/search). 
+
+I fiddle with [agentic skills](https://github.com/tomthorogood/agentic-skills) sometimes.
+
+Find out more at my [website](https://tomthorogood.com).
+
 ### Ask me about ...
 
 - horror (film, books)
@@ -16,7 +22,3 @@ I'm Tom. 👋 I write software, speculative fiction, and music.
 
 - team sports
 - the marvel cinematic universe
-
-### Other tidbits
-
-- on 22 May 2025, I added this bullet to test some search indexing in a lab environment ☮️
